@@ -5,5 +5,5 @@
 - Change Tomorrow (light) to use inverted background and foreground of Tomorrow (dark).
 - Matched backgrounds.
 
-![screenshot](/screenshot.png)
+![screenshot](https://i.imgur.com/HW3y4cw.png)
 - Font: Fira Code 13pt
