@@ -3,7 +3,7 @@
 - Tweak colors for term vim and guivim (dark).
 - Add bright colors to term so light and dark aren't identical.
 - Change Tomorrow (light) to use inverted background and foreground of Tomorrow (dark).
-- Match backgrounds. #262626 is the best.
+- Match backgrounds. `#262626` is the best.
 
 ![screenshot](https://i.imgur.com/HW3y4cw.png)
 - Font: Fira Code 13pt
@@ -17,16 +17,16 @@
 
 - Set vim to change colors based off time.
 
-`if strftime("%H") >= 7 && strftime("%H") < 19
+`if strftime("%H") >= 7 && strftime("%H") < 19`
 
-  colorscheme Tomorrow
+  `colorscheme Tomorrow`
 
-  set background=light
+  `set background=light`
 
-else
+`else`
 
-  colorscheme Tomorrow-Night
+  `colorscheme Tomorrow-Night`
 
-  set background=dark
+  `set background=dark`
 
-endif`
+`endif`
