@@ -6,3 +6,4 @@
 - Matched backgrounds.
 
 ![screenshot](screenshot.png)
+- Font: Fira Code 13pt
