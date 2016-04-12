@@ -17,10 +17,16 @@
 
 - Set vim to change colors based off time.
 
-`if strftime("%H") >= 7 && strftime("%H") < 19`
-  `colorscheme Tomorrow`
-  `set background=light`
-`else`
-  `colorscheme Tomorrow-Night`
-  `set background=dark`
-`endif`
+`if strftime("%H") >= 7 && strftime("%H") < 19
+
+  colorscheme Tomorrow
+
+  set background=light
+
+else
+
+  colorscheme Tomorrow-Night
+
+  set background=dark
+
+endif`
