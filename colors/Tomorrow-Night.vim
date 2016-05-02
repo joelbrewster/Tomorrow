@@ -23,7 +23,9 @@ if !has("gui_running")
 	let s:background = "303030"
 	let s:window = "5e5e5e"
 	let s:line = "3a3a3a"
-	let s:selection = "585858"
+	" let s:selection = "585858"
+	let s:selection = "5D6269"
+
 end
 
 hi clear
